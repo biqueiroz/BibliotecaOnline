@@ -1,0 +1,10 @@
+db.sqlite3
+venv/
+__pycache__/
+.idea/
+.vscode/
+.gitattributes
+LICENSE
+README.MD
+
+
