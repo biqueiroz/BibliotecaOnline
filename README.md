@@ -23,6 +23,8 @@ Tendo em vista todas as limitações aqui expostas, seguem orientações sobre a
 <br><br>
 
 Após essas orientações, você conseguirá acessar o projeto e realizar ações como: criar novo usuário, realizar login de usuário, cadastrar categorias, cadastrar livros, realizar empréstimos, etc.
+
+*O projeto está disponível na branch "master".*
 <br><br><br><br>
 
 *Esse projeto foi baseado e desenvolvido com as aulas e orientações do canal Pythonando: https://www.youtube.com/@pythonando*
